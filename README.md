@@ -3,6 +3,7 @@
 Este recurso é um sistema de loja para mecânica, que depende diretamente do painel administrativo.
 
 Para funcionar corretamente, é obrigatório possuir também:
+
 👉 Painel-Mecanico-Fivem
 
 
@@ -40,14 +41,20 @@ ensure Fivem-Mechanicshop
 
 📌 Sobre o Sistema
 Este script é responsável pela loja da mecânica
+
 O gerenciamento e dados vêm do Painel Mecânico
+
 Ambos funcionam de forma integrada
 
 
 ⚠️ Importante
+
 Este recurso não funciona sozinho
+
 É obrigatório ter o Painel-Mecanico-Fivem ativo
+
 A pasta node_modules não é incluída (use npm install)
+
 A pasta dist já está pronta para uso
 
 🆓 Licença
@@ -55,7 +62,11 @@ A pasta dist já está pronta para uso
 Este recurso é gratuito (free) para uso.
 
 ✔️ Permitido utilizar em servidores
+
 ✔️ Permitido modificar para uso próprio
+
 ❌ Obrigatório manter os créditos ao autor (Katiaallz)
+
 ❌ Não é permitido remover ou alterar os créditos
+
 ❌ Não é permitido revender ou redistribuir sem autorização
