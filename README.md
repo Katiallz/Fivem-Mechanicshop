@@ -1,72 +1,94 @@
-📥 Instalação e Uso
+[README_Mechanicshop.pdf](https://github.com/user-attachments/files/26189753/README_Mechanicshop.pdf)
+%PDF-1.4
+%���� ReportLab Generated PDF document (opensource)
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /ZapfDingbats /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
 
-Este recurso é um sistema de loja para mecânica, que depende diretamente do painel administrativo.
+>> 
+  /Type /Page
+>>
+endobj
+5 0 obj
+<<
+/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
 
-Para funcionar corretamente, é obrigatório possuir também:
+>> 
+  /Type /Page
+>>
+endobj
+6 0 obj
+<<
+/PageMode /UseNone /Pages 8 0 R /Type /Catalog
+>>
+endobj
+7 0 obj
+<<
+/Author (\(anonymous\)) /CreationDate (D:20260323173300+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260323173300+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+>>
+endobj
+8 0 obj
+<<
+/Count 2 /Kids [ 4 0 R 5 0 R ] /Type /Pages
+>>
+endobj
+9 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1304
+>>
+stream
+GauI7>Ardd&BE]('_BCK[=E<Ad'm=Z$#P7%UoTcHe]K-i\4U4F-Tsu_e*eQqdDED1fX!p"1/@`da#!=Z0^.JReXpgcE"YJ2S,m[R\cq5=4GYU4N*>s-p,"NA5gX^:K>DMWB=+huR=(V`H*:l:[sGGJ03^C\H\&tHZU]OP%H(47GL)g=s4d?.M!h^+[:(n[7E64bF12tDgRUY:2m[3]3;TcJibFCnV/\(6-Ql-sO.Bh</hbtQ.0O;rQeEjT]0:j&"!d>L`ZYqUW]L]+XuU#:T"CSXbEsBeI4<OS(-)jrU_X-[7#k>@'FpG>8>#j!o-BM[?;L/Z5,aKY?2?q:H(/M5Y"M"KS)+#9A``H!RE&4e>XPUbMiS+(bG5nW/pT0qqlZ7K[5+VD)K=&tZ=c[.:\uuThjh5\pqs@m3Sl$(GV1(+Au5!1$B*"HP,=3j\nA6Ed<6O:h2Gs@BKEJG`b<@u6cSgCb_1G,M:/%s_K4MueImp[+T@H*nH[<)-7TUu3s.5s"]%.AbhK[aKeXF=XPT#g"thX-d?^uBq)9g85Z@BG;as)`m.1qM0%G0>B.K+A#B2^f"'&fna^iQe#@p"mk3[.5@kH:9/@`N\od7(HXE>N!puS1FJ<:<IX,2t9NSXL3e1@YIN!/g.%7/aM"".@Q&>0I":hcLoOKkZWDb-W+9i74^J2gQ>J5oIJbu(s.7on`G'<A534'!r)VE_\819GT_W_0F+V:J\oJ-P[r/a/P%JEL-=Bp2&e0lLQ7J'C?Y"/@oP$/jr;?XPU2YRL+6G(rBEYbjC"!o(2tqct`_ND)b5_huqgOkaAD,Y[;q8O'W-m1/?j/Z+%4=`47(PL3?)$NCN1DdHH9A.#[4qN'%Wo\/RZ/cFM&dN8k8WCg0eEDathL/P5N#t/riIuGj7QJ:h7WJYutGLq^CCO4THN]9mD:lbn<M/S`r'3T$L@>tndd3P>t+a0'*glu!XQh-5)96t6T-d:2J[6sD0Ru,_c:/_W%klO&<Sm7&$+YoKTiV;'j*A-@n[qW$c#T$KNpeEnBClamNj&,fi&)9`GGI.iq:3MA<(ul<r6Aqja<*buFLT6GHPoSZ3G?2d+%8!$+Xnu7"h>d:M3Z;@#YG:,L'\YZZ[-D:NW;\_O'QRGf=1r_(@+7u?YH/,WBZ\ToOSj0dD)L^7d%GPp/uTjn=?1)4c^ORDaI-ORpJ7ZL1)8qsq<A1p169lsJ,+5r=(:?u+U79R$DZ?a[RWEL85m<0eT$0p7K'pN.PLQipM#8+N0'^I"3P4bUaaqUldo\'MpZ5uW?fX`KF=o3!A7d*Xo~>endstream
+endobj
+10 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 442
+>>
+stream
+Gaua;4`A1k&;KrWMAr5k`,WLn/&BZ6/Q0S>-8ESAN5NVCi7I]9&8FN);"[2<*$qf7pHH/M1C35Rj'$/I`rbBR"tY@8$S7mg:cuY$#S$mIm*'LkP%9mAMjtuCoo0[WX)nWa;8?I&a0KJ-3a85_KO^<]a>$h@<W^FDa3Hrl'*^N4[TAd/-<l_?S5,c&LZ2b3ZbB)Vh4?`,PW:%UI#hgPMS>7mU[Q<RI,/e[RmaB[WX\T$2<lFuUkVY(OoD'@][WY(J%GDrs4Yt;X""0a"UaImO=cb\jXhtB_ani-7eTat0)r*o<'+LnT4AVBfNX2?3iI"2_jWWj"(=IeefaYFPH[Z8VE+Gk1/6Rua_ruKPW\)p0l!ob6)i+K@-^*8"=\4C]f`QhL]81:;=<a+&B\1!(=f9`8Ah4Kje?I`aD?h/_R]+9T>VM;,R?R6Yq/-N~>endstream
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000292 00000 n 
+0000000495 00000 n 
+0000000699 00000 n 
+0000000767 00000 n 
+0000001047 00000 n 
+0000001112 00000 n 
+0000002507 00000 n 
+trailer
+<<
+/ID 
+[<bbff375035d02d847427e582b625e030><bbff375035d02d847427e582b625e030>]
+% ReportLab generated PDF document -- digest (opensource)
 
-👉 Painel-Mecanico-Fivem
-
-
-⚙️ Requisitos
-Servidor rodando FiveM
-
-Node.js instalado (necessário para uso do npm)
-
-Terminal (PowerShell, CMD ou similar)
-
-Script base da mecânica (Painel Mecânico)
-
-🚀 Instalação
-1. Baixe os dois recursos
-
-git clone https://github.com/Katiallz/Fivem-Mechanicshop
-
-git clone https://github.com/Katiallz/Painel-Mecanico-Fivem
-
-2. Instale as dependências (frontend da loja)
-
-cd Fivem-Mechanicshop/web-side/web
-
-npm install
-
-▶️ Execução no Servidor
-
-Coloque ambos os recursos em:
-resources/[local]/
-No seu server.cfg, adicione:
-
-ensure Painel-Mecanico-Fivem
-
-ensure Fivem-Mechanicshop
-
-📌 Sobre o Sistema
-Este script é responsável pela loja da mecânica
-
-O gerenciamento e dados vêm do Painel Mecânico
-
-Ambos funcionam de forma integrada
-
-
-⚠️ Importante
-
-Este recurso não funciona sozinho
-
-É obrigatório ter o Painel-Mecanico-Fivem ativo
-
-A pasta node_modules não é incluída (use npm install)
-
-A pasta dist já está pronta para uso
-
-🆓 Licença
-
-Este recurso é gratuito (free) para uso.
-
-✔️ Permitido utilizar em servidores
-
-✔️ Permitido modificar para uso próprio
-
-❌ Obrigatório manter os créditos ao autor (Katiaallz)
-
-❌ Não é permitido remover ou alterar os créditos
-
-❌ Não é permitido revender ou redistribuir sem autorização
+/Info 7 0 R
+/Root 6 0 R
+/Size 11
+>>
+startxref
+3040
+%%EOF
